@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T05:35:29.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="RCXGm4MHastBzfcHVD71" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T05:37:25.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="UEHq36Kp0vhM60NFhbte" version="15.2.9" type="github">
   <diagram id="wVl1Xk5N_F89rSZ8x50N" name="广告指标分析">
     <mxGraphModel dx="2249" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k9bZVm2sDF13RrTvU4d4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="-90" width="150" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="QavnCJLfeFvL9Ilh5AfC-46" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-500" y="-90" width="860" height="691" as="geometry" />
         </mxCell>
@@ -160,16 +163,19 @@
           <mxGeometry x="130" y="400" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QavnCJLfeFvL9Ilh5AfC-47" value="广告销售额" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-660" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="-680" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QavnCJLfeFvL9Ilh5AfC-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=none;strokeColor=default;strokeWidth=1;noLabel=1;" parent="1" source="QavnCJLfeFvL9Ilh5AfC-20" target="QavnCJLfeFvL9Ilh5AfC-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QavnCJLfeFvL9Ilh5AfC-49" value="广告花费" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="-80" width="120" height="80" as="geometry" />
+          <mxGeometry x="-680" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QavnCJLfeFvL9Ilh5AfC-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=none;strokeColor=default;strokeWidth=1;" parent="1" source="QavnCJLfeFvL9Ilh5AfC-19" target="QavnCJLfeFvL9Ilh5AfC-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9bZVm2sDF13RrTvU4d4-2" value="ACoS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-640" y="230" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
